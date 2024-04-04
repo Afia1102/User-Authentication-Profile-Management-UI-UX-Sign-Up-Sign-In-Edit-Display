@@ -7,4 +7,4 @@ Screens Included:
 3-Edit Profile: Enables users to update their profile information.
 4-Display Profile Details: Shows detailed information about the user's profile.
 Design File:
-You can view and download the complete UI/UX design in PDF format
+You can view  design file in pdf format and download in .fig format
